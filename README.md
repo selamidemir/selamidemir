@@ -24,7 +24,7 @@ I am familiar with Python, Flask, Postgresql and MySql.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 - 🔭 I’m currently working on [Turkish Checkers](https://github.com/selamidemir/turkish-checkers)  
   
@@ -36,13 +36,6 @@ I am familiar with Python, Flask, Postgresql and MySql.
   
 
 - ⚡ Fun fact: I love writing code .)  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
