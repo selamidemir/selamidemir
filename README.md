@@ -17,6 +17,9 @@
 ### Glad to see you here!  
 I'm a frontend developer. I develop web apps with React Js. While developing applications, I use technologies such as JavaScript, CSS, HTML, React JS, Redux, Bootstrap, Axios.
 
+## Last Work
+The Sunum is a portfolio theme. [https://github.com/selamidemir/sunum](https://github.com/selamidemir/sunum)
+
 I am familiar with Python, Flask, Postgresql and MySql.   
   
 
@@ -29,7 +32,7 @@ I am familiar with Python, Flask, Postgresql and MySql.
 - 🔭 I’m currently working on [Turkish Checkers](https://github.com/selamidemir/turkish-checkers)  
   
 
-- 🌱 I’m currently learning GrapQL  
+- 🌱 I’m currently learning GraphQL && Strapi
   
 
 - ❓ Ask me about anything related to React JS and related technologies  
