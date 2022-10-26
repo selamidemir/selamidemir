@@ -29,7 +29,7 @@ I am familiar with Python, Flask, Postgresql and MySql.
 ## Rapidfire  
 <table><tr><td valign="top">
 
-- 🔭 I’m currently working on [Turkish Checkers](https://github.com/selamidemir/turkish-checkers)  
+- 🔭 I’m currently working on [Matchit](https://github.com/selamidemir/matchit), a matcing game.  
   
 
 - 🌱 I’m currently learning GraphQL && Strapi
